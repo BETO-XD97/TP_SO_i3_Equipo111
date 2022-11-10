@@ -1,0 +1,25 @@
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 142
+model name	: Intel(R) Core(TM) i5-7200 CPU @ 2.50GHz
+stepping	: 9
+cpu MHz		: 2712.000
+cache size	: 3072 KB
+pysical id	: 0
+siblings	: 1
+core id		: 0
+cpu cores	: 1
+aplicid		: 0
+inital apicid	: 0
+fpu		: yes
+fpu_exeption	: yes
+cpuid level	: 22
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mcs cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxr sse sse2 ht syscall nx rdtscp lm const
+ant_rsc rep_good nopl xtopology nonstop_tsc cpuid tsc_known_freq pni pclmulqdq monitor ssse3 cx16 pcid sse4_1 sse4_2 x2apic movbe popcnt aes xsav
+e avx rdrand hypervisor lahf_lm avm 3dnowprefetch invpcid_single pti fsgbase avx2 invpcid rdseed clflushopt md_clear flush_l1d
+bugs:		: cpu_meltdow spectre_b1 spectre_v2 spec_store_bypass l1tf mds swapgs itlb_multihit srbds mmio_stale_data retbleed
+bogomips	: 5426.00
+clflush size	: 64
+cache_aligment	: 64

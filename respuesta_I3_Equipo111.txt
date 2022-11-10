@@ -17,3 +17,5 @@ G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedid
 d- Si, quedan con los datos actualizados
 e- Nos salto un error al hacer el push porque estabamos forkiando y nos falto un archivo ya que el merge de las ramas fue el reves
 f- Primero hacer el pull(git pull origin Rocabado) de la rama de Beta, despues de modificar los archivos los agrego y hago el commit, para agregar este commit me paro sobre la rama de beta (git checkout -b Rocabado) y hago el push (git push origin Rocabado) 
+
+G- git pull origin Rocabado para obtener los archivos, modificarlos y hacer el commit la rama de beta (git checkout -b Rocabado) y luego pushear (git push origin Rocabado) 
